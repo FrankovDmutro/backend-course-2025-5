@@ -1,0 +1,22 @@
+{
+  "name": "backend-course-2025-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:FrankovDmutro/backend-course-2025-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "commander": "^14.0.3",
+    "nodemon": "^3.1.14",
+    "superagent": "^10.3.0"
+  }
+}
